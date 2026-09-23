@@ -6,7 +6,7 @@
   <a href="https://github.com/Sauravyadav15">
     <img src="https://img.shields.io/badge/GitHub-Sauravyadav15-181717?style=flat&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/saurav">
+  <a href="https://www.linkedin.com/in/saurav-kumar-20b19b243/">
     <img src="https://img.shields.io/badge/LinkedIn-Saurav%20Kumar-0A66C2?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:skyjnv124@gmail.com">
